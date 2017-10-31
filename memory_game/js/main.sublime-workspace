@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"bord",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 95.0,
+		"history":
+		[
+			"asdasdaf"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johnedwinfloyd/fundamentals/wdi-fundamentals-memorygame/memory_game/js/main.js",
+		"/Users/johnedwinfloyd/fundamentals/wdi-fundamentals-memorygame/memory_game/index.html",
+		"/Users/johnedwinfloyd/fundamentals/memory_game/js",
+		"/Users/johnedwinfloyd/fundamentals/memory_game/css/js/main.js",
+		"/Users/johnedwinfloyd/fundamentals/memory_game/main.js",
+		"/Users/johnedwinfloyd/fundamentals/memory_game/css/style.css",
+		"/Users/johnedwinfloyd/fundamentals/memory_game/index.html",
+		"/Users/johnedwinfloyd/Desktop/GA-Blog/post.txt",
+		"/Users/johnedwinfloyd/Desktop/New Bulletin/main.css",
+		"/Users/johnedwinfloyd/Desktop/New Bulletin/index.html",
+		"/Users/johnedwinfloyd/Desktop/index.html",
+		"/Users/johnedwinfloyd/Desktop/intro.html",
+		"/Volumes/Git 2.14.1 Mavericks Intel Universal/README.txt",
+		"/Users/johnedwinfloyd/joke.txt",
+		"/Users/johnedwinfloyd/Desktop/WDI application work/webpage.html",
+		"/Users/johnedwinfloyd/Library/Application Support/Sublime Text 3/Packages/Default/Distraction Free.sublime-settings",
+		"/Users/johnedwinfloyd/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/johnedwinfloyd/Desktop/CrystalClear.html",
+		"/Users/johnedwinfloyd/Desktop/untitled.html",
+		"/Users/johnedwinfloyd/Desktop/esha.html",
+		"/Users/johnedwinfloyd/Desktop/Blog.html",
+		"/Users/johnedwinfloyd/Desktop/webpage.html",
+		"/Users/johnedwinfloyd/Desktop/style.css",
+		"/Users/johnedwinfloyd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
